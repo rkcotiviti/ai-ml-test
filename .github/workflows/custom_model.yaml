@@ -24,7 +24,7 @@ jobs:
 
       - name: DataRobot Custom Models Step
         id: datarobot-custom-models-step
-        uses: datarobot-oss/custom-models-action@v1.7.0
+        uses: datarobot-oss/custom-models-action@v1.5.0
         with:
           api-token: NjcxOWY0OWYzYzhhNDY2ZmI3YjViZmNjOkpoN1ZHRnJsQ043NU5kdlRpajZydExUMTl1Uk1NREM0RW1EU2hoV1RZQzQ9
           webserver: https://datarobotdev.ml.cotiviti.com/
