@@ -1,10 +1,1 @@
-user_provided_model_id: user/i3vnqonh4s6cm0f2u5lgfex0
-target_type: Unstructured (Other)
-settings:
-  name: Custom OLS Model [GitHub CI/CD]
-  target_name: STARYEAR_RATE
 
-version:
-  # Make sure this is the environment ID is in your system.
-  # This one is the '[DataRobot] Python 3 Scikit-Learn Drop-In' environment
-  model_environment_id: 5e8c889607389fe0f466c72d
